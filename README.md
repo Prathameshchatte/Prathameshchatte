@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathameshchatte 
+- 👋 Hi, I’m @Prathameshchatte, B.tech in Electronics Engineering(2022)
 - 👀 I’m interested in cloud computing and web development.
 - 🌱 I’m currently persuing my internship as AWS cloud Intern at F13technologies.
 - 💞️ Also I’m currently learning web development.
