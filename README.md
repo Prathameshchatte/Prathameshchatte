@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing my internship as AWS cloud Intern at F13technologies.
 - 💞️ Also I’m currently learning web development.
 - 📫 You can reach me with:
-    - Gmail: chatteprathamesh@gmail.com
+    - Gmail: chatteprathamesh01@gmail.com
     - LinkedIn :https://www.linkedin.com/in/prathamesh-chatte-5523b71bb 
 
 <!---
